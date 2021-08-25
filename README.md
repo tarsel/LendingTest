@@ -35,7 +35,7 @@ on the body, have the Json object on the body of the Advance Rest Client as belo
   "serviceCode": "1234"
 }
 
-While Selecting options from the menu, kindly have the values entered through the "text":"" parameter and also use the * separator while inputting various selections. i.e 
+While Selecting options from the menu, kindly have the values entered through the "text":"" parameter and also use the * separator while inputting various selections. i.e "text":"0*1*1*3000*1"
 
 {
   "text": "1*2*3000*1",
